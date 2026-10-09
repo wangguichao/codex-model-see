@@ -68,7 +68,7 @@ Codex 会把每一轮会话事件写入本地文件：
 要求：Python 3.8+（仅标准库，无需 pip install 任何东西）。Windows / macOS / Linux 均可。
 
 ```bash
-git clone https://github.com/<you>/codex-model-watch.git
+git clone https://github.com/wangguichao/codex-model-see.git
 cd codex-model-watch
 
 # 用真实数据启动（自动扫描本地会话日志并打开浏览器）
